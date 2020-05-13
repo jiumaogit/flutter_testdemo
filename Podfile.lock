@@ -2,15 +2,15 @@ PODS:
   - Flutter (1.17.0)
 
 DEPENDENCIES:
-  - Flutter (from `/Users/jiumao/Documents/Flutter/flutter_testdemo/Flutter/Debug/Flutter.podspec`)
+  - Flutter (from `./Flutter/Debug/Flutter.podspec`)
 
 EXTERNAL SOURCES:
   Flutter:
-    :podspec: "/Users/jiumao/Documents/Flutter/flutter_testdemo/Flutter/Debug/Flutter.podspec"
+    :podspec: "./Flutter/Debug/Flutter.podspec"
 
 SPEC CHECKSUMS:
   Flutter: e869ff383fe74e3801e0c515c43bd8603f3c33e3
 
-PODFILE CHECKSUM: ae1d75ec86c739ecb260794616ccbcfb416eb290
+PODFILE CHECKSUM: 9cc35697b7301a4770f05836e14e1173a59911c8
 
 COCOAPODS: 1.9.1
